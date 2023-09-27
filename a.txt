@@ -1,6 +1,7 @@
 과제1
 Git&Github practice
 g
+f
 e
 d
 c
